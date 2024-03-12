@@ -1,8 +1,5 @@
 ### 👋🏻🧑🏻‍💻 Hi, I'm Clae 
-[https://github.com/clayruh/clayruh/assets/56447997/c76c0e27-7bf6-4780-90f5-21d1933ea0f1](https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
-
-
- ![image](https://github.com/clayruh/clayruh/assets/56447997/5d2a693d-eb5f-4e18-829b-fc81f46c8c6e) ![image](https://github.com/clayruh/clayruh/assets/56447997/32a4c9a6-5c51-460d-bfa9-f0c29168005e)
+![image](https://github.com/clayruh/clayruh/assets/56447997/6eb95688-3b30-45e0-8157-f18deaf22937) ![image](https://github.com/clayruh/clayruh/assets/56447997/5d2a693d-eb5f-4e18-829b-fc81f46c8c6e) ![image](https://github.com/clayruh/clayruh/assets/56447997/32a4c9a6-5c51-460d-bfa9-f0c29168005e)
 
 ## 🚀 About Me
 Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨🪨). I'm a Software Engineer, native New Yorker.
