@@ -1,4 +1,5 @@
-### Hi, I'm Clae 👋🏻🧑🏻‍💻
+### 👋🏻🧑🏻‍💻 Hi, I'm Clae 
+![image](https://github.com/clayruh/clayruh/assets/56447997/bc8abf45-9980-42cb-9e87-56b697583a13)
 
 Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨🪨). I'm a Software Engineer, native New Yorker, and I'm a NYU and Flatiron School graduate.
 
