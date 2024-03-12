@@ -9,11 +9,13 @@ Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨
 
 <details>
 <summary>My top languages</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| JavaScript|
 |     3| SQL       |
+
 </details>
 
 <!--
