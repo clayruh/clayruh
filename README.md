@@ -1,7 +1,5 @@
 ### 👋🏻🧑🏻‍💻 Hi, I'm Clae 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
- 
- ![image](https://github.com/clayruh/clayruh/assets/56447997/5d2a693d-eb5f-4e18-829b-fc81f46c8c6e) ![image](https://github.com/clayruh/clayruh/assets/56447997/32a4c9a6-5c51-460d-bfa9-f0c29168005e)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## 🚀 About Me
 Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨🪨). I'm a Software Engineer, native New Yorker.
