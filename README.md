@@ -6,6 +6,9 @@ Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨
 
 I'm a Software Engineer with a background of 7 years in Graphic Design, with a strong track record in project management and problem-solving across non-profit and corporate environments, skillful integration of creative with technical expertise for solutions in agile settings. I'm experienced in both individual and collaborative settings, fostering creativity and innovative solutions within cross-functional teams.
 
+## Tech Stack
+
+
 ## 🎓 Education
 * Software Engineering - Flatiron School Bootcamp 💻
 * BFA in Studio Art from New York University 🎓
