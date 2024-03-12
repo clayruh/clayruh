@@ -3,17 +3,17 @@
 Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨🪨). I'm a Software Engineer, native New Yorker, and I'm a NYU and Flatiron School graduate.
 
 ## Find me on the web 🌐:
-* Keep up to date with me on my [LinkedIn](https://www.linkedin.com/in/clae-lu/)🤝
-* Follow my blog on [Medium](https://medium.com/@kurararu)💻
-* Check out my art on [Instagram](https://instagram.com/clae.creates)🧑🏻‍🎨
+* Keep up to date with me on my [LinkedIn](https://www.linkedin.com/in/clae-lu/) 🤝
+* Follow my blog on [Medium](https://medium.com/@kurararu) 💻
+* Check out my art on [Instagram](https://instagram.com/clae.creates) 🧑🏻‍🎨
 
 <details>
-  <summary>My top languages</summary>
-  | Rank | Languages |
-  |-----:|-----------|
-  |     1| Python    |
-  |     2| JavaScript|
-  |     3| SQL       |
+<summary>My top languages</summary>
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| JavaScript|
+|     3| SQL       |
 </details>
 
 <!--
