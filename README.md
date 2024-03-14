@@ -13,15 +13,10 @@ I'm a Software Engineer with a background of 7 years in Graphic Design, with a s
 * Tools: Git · GitHub · Render · Adobe Creative Cloud · Figma
 
 ## Projects:
-* BountiFUL | A mobile-first React site for foraging enthusiasts to see and track all different kinds of fruits, herbs, mushrooms, etc.
-* Shop Smart | Comparison tool for finding affordable grocery items across major big-box groceries to address rising grocery prices.
-* fruit(ful) | A single-page RESTful React website displaying forageable fruit trees across NYC using NYC Open Data API.
-* Banned Books Finder | 
-
-
-## 🎓 Education
-* Software Engineering - Flatiron School Bootcamp 💻
-* BFA in Studio Art from New York University 🎓
+* [BountiFUL](https://github.com/clayruh/ph5-final-bountiFUL) | A mobile-first React site for foraging enthusiasts to see and track all different kinds of fruits, herbs, mushrooms, etc.
+* [Shop Smart](https://github.com/clayruh/ph4-final-grocery-compare) | Comparison tool for finding affordable grocery items across major big-box groceries to address rising grocery prices.
+* [fruit(ful)](https://github.com/clayruh/phase-2-final-fruitful) | A single-page RESTful React website displaying forageable fruit trees across NYC using NYC Open Data API.
+* [Banned Books Finder](https://github.com/siacavazzi/banned-book-finder) | A single-page application where people can look up books banned by state. Built with HTML, CSS, and JavaScript and Pen America's public database of banned books.
 
 <!--
 **clayruh/clayruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
