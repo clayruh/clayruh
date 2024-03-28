@@ -7,7 +7,7 @@ Welcome to my Github! My name is Clae (pronounced like the earthen material 🪨
 I'm a Software Engineer with a background of 7 years in Graphic Design, with a strong track record in project management and problem-solving across non-profit and corporate environments, skillful integration of creative with technical expertise for solutions in agile settings. I'm experienced in both individual and collaborative settings, fostering creativity and innovative solutions within cross-functional teams.
 
 ## 🧑🏻‍💻 Tech Stack
-* Languages: JavaScript · Python · Java · HTML · CSS
+* Languages: JavaScript · TypeScript · Python · Java · HTML · CSS
 * Frameworks/Libraries: React · Redux · Flask · RESTful APIs
 * Databases: MySQL · SQLite · SQLAlchemy
 * Tools: Git · GitHub · Render · Adobe Creative Cloud · Figma
